@@ -14,7 +14,7 @@
 <a href="https://dev.to/owendavies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="owendavies" height="30" width="40" /></a>
 <a href="https://twitter.com/owendavies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="owendavies" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/owendavies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="owendavies" height="30" width="40" /></a>
-<a href="/https://owendavies.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://owendavies.net/feed.xml" height="30" width="40" /></a>
+<a href="https://owendavies.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://owendavies.net/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
