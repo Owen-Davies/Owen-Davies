@@ -1,8 +1,6 @@
 <h1 align="center">Hello world! 🌍, I'm Owen Davies</h1>
 <h3 align="center">A passionate Azure Consultant & Software Engineer from London,UK.</h3>
 
-- 📝 I regularly write articles on [https://owendavies.net](https://owendavies.net)
-
 - 📫 How to reach me **hello@owendavies.net**
 
 ### Blogs posts
