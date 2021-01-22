@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 🌍, I'm Owen Davies</h1>
-<h3 align="center">An Azure Consultant & Software Engineer from London,UK.</h3>
+<h3 align="center">Azure Consultant & Software Engineer from London,UK.</h3>
 
 - 📫 How to reach me **hello@owendavies.net**
 
