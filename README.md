@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing DevOps documentation in Git and managing CAB approvals with Pull Requests](https://owendavies.net/articles/storing-devops-documentation-in-git/)
+- [How to install Jupyter Notebook on Ubuntu Linux](https://owendavies.net/articles/install-jupyter-notebook-on-ubuntu/)
+- [Install a desktop environment GUI on Ubuntu Server in Azure](https://owendavies.net/articles/install-desktop-gui-on-ubuntu-server/)
+- [Convert PFX SSL certificate to base64 in PowerShell and PowerShell Core](https://owendavies.net/articles/convert-ssl-cert-pfx-to-base64-in-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
