@@ -5,10 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management Gateway](https://owendavies.net/articles/azure-api-management-gateway/)
 - [Storing DevOps documentation in git](https://owendavies.net/articles/storing-devops-documentation-in-git/)
-- [PlantUML](https://owendavies.net/articles/plantuml/)
-- [Getting started with Azure Blueprints](https://owendavies.net/articles/azure-blueprints/)
+- [How to install Jupyter Notebook on Ubuntu Linux](https://owendavies.net/articles/install-jupyter-notebook-on-ubuntu/)
+- [How to install Jupyter Notebook on Ubuntu Linux](https://owendavies.net/articles/install-jupyter-notebook-on-ubuntu-screenshots/)
+- [Install a desktop environment GUI on Ubuntu Server in Azure](https://owendavies.net/articles/install-desktop-gui-on-ubuntu-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
