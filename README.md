@@ -5,9 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Change tmux command prefix](https://owendavies.net/articles/change-tmux-command-prefix/)
 - [Storing DevOps documentation in git](https://owendavies.net/articles/storing-devops-documentation-in-git/)
 - [How to install Jupyter Notebook on Ubuntu Linux](https://owendavies.net/articles/install-jupyter-notebook-on-ubuntu/)
-- [How to install Jupyter Notebook on Ubuntu Linux](https://owendavies.net/articles/install-jupyter-notebook-on-ubuntu-screenshots/)
 - [Install a desktop environment GUI on Ubuntu Server in Azure](https://owendavies.net/articles/install-desktop-gui-on-ubuntu-server/)
 <!-- BLOG-POST-LIST:END -->
 
