@@ -1,0 +1,41 @@
+@startuml
+
+partition Engineer {
+  "Engineer makes changes to documents" --> "Engineer commits changes to branch"
+}
+
+
+partition "CI Server" {
+   "Engineer commits changes to branch" --> "Documents automatically copied to SharePoint folder"
+}
+
+(*) --> "Change Request"
+
+partition Engineer {
+  "Change Request" --> "Engineer creates HLD document"
+  --> "New branch created in Git called feature/<STORY_ID>"
+  --> "Documents saved into Git (directly with infrastructure code)"
+  --> "Engineer Submits PULL REQUEST. Assigning CAB member for CAB approval"
+    --> "Documents automatically copied to SharePoint folder"
+}
+
+
+partition "CAB Approval" #CCCCEE {
+  "Documents automatically copied to SharePoint folder" -right-> "CAB Meeting to review documents and decide if to approve or deny"
+}
+
+partition "CAB Approval" #CCCCEE {
+  "CAB Meeting to review documents and decide if to approve or deny" --> "Pull Request Approved?"
+   -left-> if "" then
+     -down->[Approved] "Documents merged into master branch in Git"
+   else
+     -up-> [Changes required] "Bugs created in the PR for changes needed"
+     -up-> "Engineer makes changes to documents"
+   else
+     -right-> [Denied] "Pull Request Denied. 
+     Work not going ahead, 
+     documents removed from Sharepoint?"
+   endif
+
+}
+@enduml
