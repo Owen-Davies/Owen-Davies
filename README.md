@@ -1,7 +1,7 @@
 ### Hi, I'm Owen Davies 👋
 
 **Lead Engineer — Azure · cloud migration · platform engineering.**
-Currently at the Bank of England, building and leading reliable engineering in regulated, high-stakes environments. I care more about boring, dependable systems than chasing hype.
+Currently building and leading reliable engineering in regulated, high-stakes environments. I care more about boring, dependable systems than chasing hype.
 
 - 🔭 Working on: Azure, cloud migration, Terraform/IaC, platform & DevOps
 - ✍️ I write practical, no-fluff guides at **[owendavies.net](https://owendavies.net)**
