@@ -4,8 +4,6 @@
 Currently building and leading reliable engineering in regulated, high-stakes environments. I care more about boring, dependable systems than chasing hype.
 
 - 🔭 Working on: Azure, cloud migration, Terraform/IaC, platform & DevOps
-- ✍️ I write practical, no-fluff guides at **[owendavies.net](https://owendavies.net)**
-- 📫 Reach me at **hello@owendavies.net**
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
